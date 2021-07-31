@@ -27,10 +27,10 @@
 <summary> <strong>GitHub Stats</strong> </summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YTFlashplayz&show_icons=true&count_private=true&theme=bear" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Flash-1337&show_icons=true&count_private=true&theme=bear" alt="My github stats" />
 </a><br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" style="margin-left: 45px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTFlashplayz&layout=compact&theme=bear" />
+  <img align="center" style="margin-left: 45px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flash-1337&layout=compact&theme=bear" />
 </a>
 
 </details>
