@@ -1,11 +1,11 @@
 ### Flash
 <br>
 
-## I Dev game cheats and have been learning to code since 2020
-- Currently working on my minecraft client Strike
+## I develope game cheats and have been learning to code since 2020
+- Currently working on my Minecraft Windows 10 Edition client Strike
 
 ### Contact me:
-[<img align="left" alt="Discord Server | https://discord.gg/M7nJcVeNED" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
+[<img align="left" alt="Discord Server | https://discord.gg/nuKjk973Rv" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
 
 <br>
 
@@ -36,4 +36,4 @@
 </details>
 
 [website]: https://www.flashcheats.xyz/
-[discord]: https://discord.gg/M7nJcVeNED
+[discord]: https://discord.gg/nuKjk973Rv
