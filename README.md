@@ -37,3 +37,5 @@
 
 [website]: https://www.flashcheats.xyz/
 [discord]: https://discord.gg/nuKjk973Rv
+I stole this from MaxTCodes
+
