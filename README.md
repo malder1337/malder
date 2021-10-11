@@ -1,7 +1,7 @@
 ### Flash
 <br>
 
-## I develope game cheats and have been learning to code since 2020
+## I develop game cheats and have been learning to code since 2020
 - Currently working on my Minecraft Windows 10 Edition client Strike
 
 ### Contact me:
