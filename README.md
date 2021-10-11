@@ -2,7 +2,7 @@
 <br>
 
 ## I develop game cheats and have been learning to code since 2020
-- Currently working on my Minecraft Windows 10 Edition client Strike
+- Currently working on my Minecraft Windows 10 Edition hacked client Strike
 
 ### Contact me:
 [<img align="left" alt="Discord Server | https://discord.gg/nuKjk973Rv" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/discord.svg" />][discord]
@@ -36,6 +36,4 @@
 </details>
 
 [website]: https://www.flashcheats.xyz/
-[discord]: https://discord.gg/nuKjk973Rv
-I stole this from MaxTCodes
-
+[discord]: https://strike.wtf/
