@@ -29,9 +29,10 @@
 </a><br><br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" style="margin-left: 45px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flash-1337&layout=compact&theme=bear" />
+</a><br><br>
+<a href="https://discord.com/users/275157307695038464">
+  <img src="https://lanyard-profile-readme.vercel.app/api/823371645355687996" align="left" />
 </a>
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/823371645355687996)](https://discord.com/users/823371645355687996)
-
 
 [website]: https://www.flashcheats.xyz/
 [discord]: https://strike.wtf/
