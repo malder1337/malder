@@ -23,6 +23,9 @@
 ---
 ---
 
+<a href="https://discord.com/users/823371645355687996">
+  <img src="https://lanyard-profile-readme.vercel.app/api/823371645355687996" align="left" />
+</a>
 
 <summary> <strong>GitHub Stats</strong> </summary>
 
