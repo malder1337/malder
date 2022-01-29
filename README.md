@@ -16,4 +16,4 @@
 
 
 ## How can I contact you?
-I am most active on my Discord which is Flash_#1337 or you can join my server here: https://strike.wtf/
+I am most active on my Discord which is Flash_#5420 or you can join my server here: https://strike.wtf/
