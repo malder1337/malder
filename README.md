@@ -1,8 +1,8 @@
-### Yo I'm Flash
+### Yo I'm malder
 
 ## I code C# a little bit of C++ and I make memory editing cheats for games. Here is some stuff I'm working on:
-- Strike | A currently C# external Minecraft Windows 10 Edition Hacked Client | https://strike.wtf/
-- CrabWare | An external C# CrabGame Cheat | https://crabware.xyz/
+- flas | A currently C# external Minecraft Windows 10 Edition Hacked Client | https://grabify.link/
+- weneer clent | An external C# fortnet Cheat | https://gooogl.xyz/
 ## Languages and Tools: 
 - Microsoft Visual Studio 2022
 - Jetbrains Rider
@@ -12,7 +12,7 @@
 - JS (coded like 3 discord bots)
 
 ## Stats: 
-![Flash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flash-1337&show_icons=true&theme=dracula) 
+![malder's GitHub stats](https://github-readme-stats.vercel.app/api?username=malder1337&show_icons=true&theme=dracula) 
 
 
 ## How can I contact you?
